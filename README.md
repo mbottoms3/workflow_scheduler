@@ -9,3 +9,6 @@ This project is a simple app for planning out a day from 0800 to 1800.  The user
 The repository can be found here: https://github.com/mbottoms3/workflow_scheduler
 
 The live website can be found here: https://mbottoms3.github.io/workflow_scheduler/
+
+
+![screenshot of app](./_C__Users_Owner_Desktop_Homework_5_Challenge_workflow_scheduler_index.html.png "Workflow Scheduler")
